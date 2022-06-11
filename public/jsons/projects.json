@@ -17,7 +17,7 @@
             }
         ],
         "description": "This is a full-stack responsive react project where dealers can buy tools in bulk. Users can go to the dashboard and pay for or cancel their orders. Only admins see all orders and their payment status in the dashboard. They can also ship paid orders. Admins can make normal users admin and add or delete products.",
-        "detailedDescription": "This is a website made for an imaginary company called Iron Works who manufacturers hand tools and operates in the south Asia region. Regular users will be able to login and purchase their products in bulk form the site. Each product has its own minimum order quantity and total stock. After placing the order the user can go to the dashboard to delete or pay for the order. Users with admin privilege will be able to add and remove products. They will be able to see all of the orders and their payment status. If the payment is done, the admins can ship the product to the user.",
+        "detailedDescription": "This is a website made for an Photographer company called wild life photography who manufacturers hand tools and operates in the south Asia region. Regular users will be able to login and purchase their products in bulk form the site. Each product has its own minimum order quantity and total stock. After placing the order the user can go to the dashboard to delete or pay for the order. Users with admin privilege will be able to add and remove products. They will be able to see all of the orders and their payment status. If the payment is done, the admins can ship the product to the user.",
         "links": [
             {
                 "title": "Live Site",
@@ -85,7 +85,7 @@
             }
         ],
         "description": "This is a simple react website with routing and firebase authentication. Users can log in using email-password or google pop-up. Users cannot access the checkout page without logging in.",
-        "detailedDescription": "This is a website for a independent guitar teacher. The users can see all of his services and other user reviews in the homepage. They can log in to book a service. The login part is a must. If the user clicks on the booking button without logging in first, they wil be redirected to the login page and returned back to the checkout page after logging in successfully.",
+        "detailedDescription": "This is a website for a Marketplace. The users can see all of his services and other user reviews in the homepage. They can log in to book a service. The login part is a must. If the user clicks on the booking button without logging in first, they wil be redirected to the login page and returned back to the checkout page after logging in successfully.",
         "links": [
             {
                 "title": "Live Site",
