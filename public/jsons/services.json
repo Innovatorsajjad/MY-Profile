@@ -1,0 +1,23 @@
+[
+    {
+        "id": 11,
+        "image": "images/arts/html-css.svg",
+        "title": "Plain HTML and CSS website",
+        "description": "I can develop pixel perfect fully responsive websites with HTML and CSS from provided figma design.",
+        "technologyUsed": ["HTML", "CSS", "JavaScript"]
+    },
+    {
+        "id": 12,
+        "image": "images/arts/react.svg",
+        "title": "SPA with React",
+        "description": "I can develop fast and fully responsive single page React web apps with routing(protected and nested), authentication etc.",
+        "technologyUsed": ["JavaScript", "React", "Firebase"]
+    },
+    {
+        "id": 13,
+        "image": "images/arts/mern.svg",
+        "title": "MERN stack web application",
+        "description": "I can develop a full stack web app using MongoDB, Express, React and Node. With authorization features like JWT, admin role, payment system etc.",
+        "technologyUsed": ["MongoDB", "Express", "React", "Node"]
+    }
+]

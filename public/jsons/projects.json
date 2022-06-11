@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Wild Life Photography",
+        "type": "Photography Company Website",
+        "screenshots": [
+            {
+                "title": "Homepage",
+                "image": "https://i.ibb.co/dQX7m7h/wild-Life1.png"
+            },
+            {
+                "title": "Services",
+                "image": "https://i.ibb.co/BTZGP3N/wild-Life2.png"
+            },
+            {
+                "title": "About Me",
+                "image": "https://i.ibb.co/YBkhDJx/wild-Life3.png"
+            }
+        ],
+        "description": "This is a full-stack responsive react project where dealers can buy tools in bulk. Users can go to the dashboard and pay for or cancel their orders. Only admins see all orders and their payment status in the dashboard. They can also ship paid orders. Admins can make normal users admin and add or delete products.",
+        "detailedDescription": "This is a website made for an imaginary company called Iron Works who manufacturers hand tools and operates in the south Asia region. Regular users will be able to login and purchase their products in bulk form the site. Each product has its own minimum order quantity and total stock. After placing the order the user can go to the dashboard to delete or pay for the order. Users with admin privilege will be able to add and remove products. They will be able to see all of the orders and their payment status. If the payment is done, the admins can ship the product to the user.",
+        "links": [
+            {
+                "title": "Live Site",
+                "url": "https://wildlife-photography-10.netlify.app/"
+            },
+            {
+                "title": "Client Side Code",
+                "url": "https://github.com/Innovatorsajjad/WildLife_Photography-Assignment-10"
+            },
+            {
+                "title": "Server Side Code",
+                "url": ""
+            }
+        ]
+    },
+    {
+        "name": "CarMax",
+        "type": "Car Dealer Website",
+        "screenshots": [
+            {
+                "title": "Homepage",
+                "image": "https://i.ibb.co/ZN3Tmwj/CarMax1.png"
+            },
+            {
+                "title": "Question and Answers",
+                "image": "https://i.ibb.co/ZM7Fv3d/CarMax2.png"
+            },
+            {
+                "title": "Login and Sign Up Page",
+                "image": "https://i.ibb.co/mvVZB9p/CarMax3.png"
+            }
+        ],
+        "description": "This is another full stack responsive web application to manage store inventory. Where users can update the stock of a product by restocking or delivering products. The user can add or delete products from the list. Users can report bugs from the bug report section on the home page.",
+        "detailedDescription": "This is a inventory management website. Here the user can monitor their stock in the warehouse. They can also individually add more stock of each item or ship items away from the warehouse (decrease the stock). Alternatively, the users can delete an item or add new items in the inventory. The users can also see the items added by them.",
+        "links": [
+            {
+                "title": "Live Site",
+                "url": "https://car-max-2efa4.web.app/"
+            },
+            {
+                "title": "Client Side Code",
+                "url": "https://github.com/Innovatorsajjad/CarMax_Client-side-Assignment-11"
+            },
+            {
+                "title": "Server Side Code",
+                "url": "https://github.com/Innovatorsajjad/CarMax_Server-side-Assignment-11"
+            }
+        ]
+    },
+    {
+        "name": "Gozzby",
+        "type": "Independent Service Provider Website",
+        "screenshots": [
+            {
+                "title": "Homepage",
+                "image": "https://i.ibb.co/rv02s2d/Gozzby1.png"
+            },
+            {
+                "title": "Product and reviews",
+                "image": "https://i.ibb.co/zNXmD4v/Gozzby2.png"
+            },
+            {
+                "title": "Dashboard",
+                "image": "https://i.ibb.co/gWYqqx2/Gozzby3.png"
+            }
+        ],
+        "description": "This is a simple react website with routing and firebase authentication. Users can log in using email-password or google pop-up. Users cannot access the checkout page without logging in.",
+        "detailedDescription": "This is a website for a independent guitar teacher. The users can see all of his services and other user reviews in the homepage. They can log in to book a service. The login part is a must. If the user clicks on the booking button without logging in first, they wil be redirected to the login page and returned back to the checkout page after logging in successfully.",
+        "links": [
+            {
+                "title": "Live Site",
+                "url": "https://gozzby-client-side.web.app/"
+            },
+            {
+                "title": "Client Side Code",
+                "url": "https://github.com/Innovatorsajjad/Gozzby_Client-Side-Assignment-12"
+            },
+            {
+                "title": "Server side code",
+                "url": "https://github.com/Innovatorsajjad/Gozzby_Server-Side-Assignment-12"
+            }
+        ]
+    }
+]
