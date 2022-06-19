@@ -12,7 +12,7 @@ const Banner = () => {
                     transition={{ duration: 1, ease: "easeInOut" }}
                     className='mask mask-hexagon max-w-sm mb-12 lg:mb-0'
                 >
-                    <img src="https://scontent.fdac134-1.fna.fbcdn.net/v/t39.30808-6/271716734_1482800418784304_3754238695309101254_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHBRu-Afs_sxQweXOGNP_sqWXlo47v070hZeWjju_TvSBJHmqH5o7lWSSSajihh0aa3Smkqg0mNJmWJfLyJuYfC&_nc_ohc=wNmeqd2saAAAX-cB5iq&_nc_ht=scontent.fdac134-1.fna&oh=00_AT9Vdnhj-h6_TpgrT3mA8QatqQgH83X-UzyqhyUs7dFUcA&oe=62A9658B" alt='me' />
+                    <img src="https://i.ibb.co/K0hXPkZ/Profile-Pic.jpg" alt='me' />
                 </motion.div>
                 <motion.div
                     initial={{ opacity: 0, x: -50, scale: 0.9 }}
